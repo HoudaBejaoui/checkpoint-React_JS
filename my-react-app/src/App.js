@@ -1,8 +1,6 @@
 import React from 'react';  
 import { Container, Navbar, Nav, Card, Form, Button, Row, Col } from 'react-bootstrap';
 
-{/*useState*/}
-{/* const [email,setEmail]=useState("") console.log(email) */}
 const App = () => {
   return (
     <>
